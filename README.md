@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasmine-sizhe
+- 👋 Hi, I’m Jasmine Chen @Sizhe-chen11
 - 👀 I’m interested in the interaction between business and information systems. 
 - 🌱 I'm currently focused on Machine Learning and Deep Learing methods for predictive analysis.
 - 💞️ I’m looking to collaborate on predictive models in healthcare, financial risk and social media industry.
